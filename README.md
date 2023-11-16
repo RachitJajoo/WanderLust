@@ -1,0 +1,2 @@
+# WanderLust
+WanderLust is a web application that allows users to explore and book travel destinations around the world. Users can browse through different categories, such as nature, culture, adventure, or romance, and view the details, ratings, and reviews of each destination. Users can also create their own profiles, save their favorite destinations, and share their experiences with other travelers.
